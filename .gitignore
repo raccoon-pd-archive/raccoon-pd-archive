@@ -1,0 +1,5 @@
+# RPD archive — local-only artifacts
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
