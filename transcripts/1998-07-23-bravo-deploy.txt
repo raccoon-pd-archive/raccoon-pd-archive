@@ -1,0 +1,42 @@
+RPD DISPATCH — RADIO LOG
+Date:    23 JUL 1998
+Channel: S.T.A.R.S. tactical (encrypted)
+Logged:  Off. R. Chambers (medic, in-flight)
+Format:  HH:MM speaker — content
+
+---
+
+08:42  DISPATCH — Bravo-1, Bravo-1, this is dispatch. Wheels up confirmed?
+08:42  BRAVO-1 (Marini) — Affirmative dispatch. Bravo airborne. Heading
+                         zero-three-zero, climbing through eight hundred.
+08:43  DISPATCH — Acknowledged Bravo-1. Weather over Arklay deteriorating.
+                  Watch your ridge clearance.
+08:43  BRAVO-PILOT (Vickers) — Dispatch, Bravo-Pilot. I have the ridge.
+                              Visibility is poor on the north face. Will
+                              follow river south of the estate.
+08:46  BRAVO-6 (Chambers) — Capt., comms intermittent. I am switching to
+                            backup channel.
+08:47  BRAVO-1 (Marini) — Copy Bravo-6. All hands on backup channel.
+08:51  BRAVO-PILOT (Vickers) — Dispatch, Bravo-Pilot. Engine running rough.
+                              I am declaring a precautionary landing on
+                              the east clearing.
+08:51  DISPATCH — Acknowledged Bravo-Pilot. Mark your position.
+08:52  BRAVO-PILOT (Vickers) — Dispatch, position is two-point-eight
+                              klicks bearing two-seven-zero from the
+                              estate. Ground is uneven — I do not have a
+                              clean LZ.
+08:53  DISPATCH — Bravo-Pilot, can you hold pattern?
+08:53  BRAVO-PILOT (Vickers) — Negative dispatch. I am setting down. The
+                              bird is shaking and I cannot risk a stall
+                              over the trees. — STAND BY —
+09:01  DISPATCH — Bravo-1, Bravo-1, dispatch. Confirm landing status.
+09:01  BRAVO-1 (Marini) — Dispatch, we are down. Hard landing. The bird
+                         is intact but Brad is clipped — minor. We are
+                         dismounting now and will hold position. Stand
+                         by for grid.
+09:08  BRAVO-1 (Marini) — Dispatch, I have movement in the treeline. We
+                         are taking cover. Do you copy.
+09:14  BRAVO-1 (Marini) — Dispatch — they are not — they are not human
+                         — we need —
+
+[ TRANSMISSION ENDS — SIGNAL LOST ]

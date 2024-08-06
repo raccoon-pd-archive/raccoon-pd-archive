@@ -1,0 +1,30 @@
+RPD DISPATCH — RADIO LOG (FRAGMENT)
+Date:    23 JUL 1998
+Channel: S.T.A.R.S. tactical (backup)
+Logged:  AUTOMATED — handset dropped active
+Note:    Recovered from open mic on Bravo-Pilot's headset. Audio
+         was buried under static for most of the duration; what
+         follows is the only intelligible portion.
+
+---
+
+09:21  [unidentified, low audio] ...is wrecked. The bird is wrecked.
+       Marini is — I cannot find Marini — Rebecca? Rebecca, copy?
+
+09:22  [Vickers] ...I'm at the cabin. There are dogs. I — I do not
+       have ammunition. The cabin is not safe. I am going to — the
+       estate. The estate is the only —
+
+09:24  [Vickers] If anyone hears this. If anyone — please tell my
+       wife — please —
+
+[ HANDSET FAILS — END OF FRAGMENT ]
+
+---
+
+This recording was preserved in the open-channel buffer before the
+backup transmitter stopped responding to dispatch ping at 09:31.
+
+The handset was registered to Off. B. Vickers, badge 0723.
+
+— filed by Off. R. Chambers, on return to RPD, 25 JUL 1998
